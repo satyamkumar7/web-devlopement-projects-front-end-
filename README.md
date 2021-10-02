@@ -1,3 +1,1 @@
-Hii, I am Satyam Kumar currently pursuing B.E from Chandigarh University with computer science and engineering and specilisation is Information security.
-I have good programming knowledge along with different skills such as web devlopement,web security applications,Ethical hacking ,programming and many more..
-
+This is the project of web develpoement i.e.front-end made with HTML,CSS and Javascript .This is the basic project made in which begineer's or the person having less knowledge of HTML,CSS and javscript can also understand this....
